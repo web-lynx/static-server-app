@@ -27,7 +27,7 @@ h1 {
 
 .container section {
   flex: 60%;
-  max-width: 66vw;
+  max-width: 60vw;
 }
 
 .container aside {
